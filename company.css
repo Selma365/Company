@@ -144,8 +144,8 @@ p{
     display: flex;
     margin-top: 50px;
     position: relative;
-    left: 350px;
-    right: 50px;  
+    left: 300px;
+    margin:25px;
     flex-grow: 1;
     
 }
